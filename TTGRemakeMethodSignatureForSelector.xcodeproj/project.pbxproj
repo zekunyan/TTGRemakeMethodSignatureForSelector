@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		BFEC19A71E9A7A9E001F40F2 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = BFEC19A61E9A7A9E001F40F2 /* main.m */; };
+		BFEC19AF1E9A7ADE001F40F2 /* NSObject+TTGRemakeMethodSignatureForSelector.m in Sources */ = {isa = PBXBuildFile; fileRef = BFEC19AE1E9A7ADE001F40F2 /* NSObject+TTGRemakeMethodSignatureForSelector.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +26,8 @@
 /* Begin PBXFileReference section */
 		BFEC19A31E9A7A9E001F40F2 /* TTGRemakeMethodSignatureForSelector */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = TTGRemakeMethodSignatureForSelector; sourceTree = BUILT_PRODUCTS_DIR; };
 		BFEC19A61E9A7A9E001F40F2 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		BFEC19AD1E9A7ADE001F40F2 /* NSObject+TTGRemakeMethodSignatureForSelector.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject+TTGRemakeMethodSignatureForSelector.h"; sourceTree = "<group>"; };
+		BFEC19AE1E9A7ADE001F40F2 /* NSObject+TTGRemakeMethodSignatureForSelector.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+TTGRemakeMethodSignatureForSelector.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +61,8 @@
 			isa = PBXGroup;
 			children = (
 				BFEC19A61E9A7A9E001F40F2 /* main.m */,
+				BFEC19AD1E9A7ADE001F40F2 /* NSObject+TTGRemakeMethodSignatureForSelector.h */,
+				BFEC19AE1E9A7ADE001F40F2 /* NSObject+TTGRemakeMethodSignatureForSelector.m */,
 			);
 			path = TTGRemakeMethodSignatureForSelector;
 			sourceTree = "<group>";
@@ -120,6 +125,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BFEC19A71E9A7A9E001F40F2 /* main.m in Sources */,
+				BFEC19AF1E9A7ADE001F40F2 /* NSObject+TTGRemakeMethodSignatureForSelector.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -248,6 +254,7 @@
 				BFEC19AC1E9A7A9E001F40F2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
