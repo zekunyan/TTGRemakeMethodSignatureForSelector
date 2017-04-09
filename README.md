@@ -104,7 +104,7 @@ void * +[NSObject methodSignatureForSelector:](void * self, void * _cmd, void * 
 
 ___methodDescriptionForSelector:
 
-![](https://github.com/zekunyan/TTGRemakeMethodSignatureForSelector/raw/master/Resources/TTGRemakeMethodSignatureForSelector_1.png)
+![](https://github.com/zekunyan/TTGRemakeMethodSignatureForSelector/raw/master/Resources/TTGRemakeMethodSignatureForSelector_0.png)
 
 ```
 int ___methodDescriptionForSelector(int arg0, int arg1) {
