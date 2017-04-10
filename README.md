@@ -2,6 +2,10 @@
 
 Remake `methodSignatureForSelector:`，just for research.
 
+如果你在天朝：
+团队博客：[http://icbu.info/diy_methodsignatureforselector/](http://icbu.info/diy_methodsignatureforselector/)
+土土哥的技术Blog: [http://tutuge.me/2017/04/08/diy-methodSignatureForSelector/](http://tutuge.me/2017/04/08/diy-methodSignatureForSelector/)
+
 ## Core code
 
 ttg_MethodDescription
